@@ -1,5 +1,5 @@
 # ProyectoE7
 somos la ley
-Galvan Winkler Mario
-Javier Rodriguez Morteo
-Daniel Esteban Briceño Gamboa 
+\nGalvan Winkler Mario
+\nJavier Rodriguez Morteo
+\nDaniel Esteban Briceño Gamboa 
